@@ -33,6 +33,10 @@ Barre de navigation
 
 il peut en avoir plusieurs
 
+## article
+
+Contenu dans une section.
+
 ## aside
 
 Elements qui se situe sur le coté
@@ -40,4 +44,10 @@ Elements qui se situe sur le coté
 
 ## footer
 
-En bas de page
+En bas de page, contient les données relatives au droit d'auteur
+
+
+Sources :
+* MDN Mozilla : https://developer.mozilla.org/fr/docs/Web/HTML/Element
+* W3school : https://www.w3schools.com/html/default.asp
+
