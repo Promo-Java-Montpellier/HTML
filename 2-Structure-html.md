@@ -25,9 +25,9 @@ Les balises à connaitre :
 `<header>` != `<head>`
 Le haut de page
 
-## footer
+## nav
 
-En bas de page
+Barre de navigation
 
 ## section
 
@@ -37,6 +37,7 @@ il peut en avoir plusieurs
 
 Elements qui se situe sur le coté
 
-## nav
 
-Barre de navigation
+## footer
+
+En bas de page
