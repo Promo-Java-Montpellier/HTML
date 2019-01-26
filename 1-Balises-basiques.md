@@ -88,5 +88,12 @@ Example
 </ul>
 ```
 
+## HTML span
+
+A `<span>` element used to color a part of a text:
+
+```html
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+
 
 Source : https://www.w3schools.com/html/html_basic.asp
